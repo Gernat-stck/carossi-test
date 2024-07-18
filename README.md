@@ -12,3 +12,19 @@ En el siguiente proyecto se implemento la prueba tecnica solicitada para la plaz
 # Clients Table
 
 ![alt text](image-4.png)
+
+# Login View (Mobile)
+
+![alt text](Screenshot_2024-07-18-17-24-36-566_com.brave.browser.jpg)
+
+# Clients Map (Mobile)
+
+![alt text](Screenshot_2024-07-18-17-24-53-248_com.brave.browser.jpg)
+
+# Navbar (Mobile)
+
+![alt text](Screenshot_2024-07-18-17-24-56-461_com.brave.browser.jpg)
+
+# Clients Table (Mobile)
+
+![alt text](Screenshot_2024-07-18-17-25-00-542_com.brave.browser.jpg)
